@@ -1,0 +1,43 @@
+React JS + TypeScript. Введение в Типизацию (+ React Router DOM)
+Владилен Минин
+https://youtu.be/OvLWWvjoi8s
+
+0:46 new empty folder
+/vm_react-ts
+
+0:58 search in Google
+create react app typescript
+
+1:42
+npx create-react-app my-app --template TypeScript
+
+5:46
+Clean project
+
+7:27
+npm start
+
+10:07 materialize css
+https://materializecss.com/
+index.html
+<!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+<!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+11:44
+/src/components/NavBar.tsx
+
+16:40
+/src/components/TodoForm.tsx
+
+35:05
+/src/components/TodoList.tsx
+
+42:13
+/src/interfaces.ts
+
+53:52
+
+
+
