@@ -19,7 +19,6 @@ const App: React.FC = () => {
   };
 
   const toggleHandler = (id: number) => {
-    console.log("Toggle Handler");
     
     setTodos((prev) =>
       prev.map((todo) => {
@@ -28,7 +27,7 @@ const App: React.FC = () => {
         if (todo.id === id) {
           todo.completed = !todo.completed;
         }
-        console.log("after",todo);
+        console.log("after:", todo.completed);
         return todo;
       })
     );
