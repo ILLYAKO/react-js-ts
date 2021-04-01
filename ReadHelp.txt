@@ -37,7 +37,11 @@ index.html
 42:13
 /src/interfaces.ts
 
-53:52
+1:05:53 React Router
+npm install react-router-dom
+npm i @types/react-router-dom
+
+1:16:22
 
 
 
